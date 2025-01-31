@@ -2,7 +2,8 @@ body
 {
     background-image: url("./images/mobile-suit-gundam-hero.jpg");
     background-color: rgb(11, 11, 69);
-    background-size: 100% 100%;
+    background-size: auto 100%;
+    background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
